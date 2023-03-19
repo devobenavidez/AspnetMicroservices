@@ -8,7 +8,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "Basket.API": {
+    "Discount.API": {
       "commandName": "Project",
       "launchBrowser": true,
       "launchUrl": "swagger",
@@ -16,7 +16,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       },
       "dotnetRunMessages": "true",
-      "applicationUrl": "http://localhost:5002"
+      "applicationUrl": "http://localhost:5003"
     },
     "Docker": {
       "commandName": "Docker",
@@ -30,7 +30,7 @@
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
     "iisExpress": {
-      "applicationUrl": "http://localhost:62784",
+      "applicationUrl": "http://localhost:22525",
       "sslPort": 0
     }
   }
